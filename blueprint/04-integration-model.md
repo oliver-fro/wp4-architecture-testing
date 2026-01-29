@@ -4,7 +4,7 @@
 Modularity, standardization, versioning.
 
 ## 4.2 High-Level Flows
-- Credential issuance
+- Credential issuance <br>
   This is a fancy change of the thing...
   
 - Presentation & verification
