@@ -9,6 +9,7 @@
 The **Architecture & Integration Blueprint Reference Document (D4.1)** establishes the high-level framework for WE BUILDs technical execution.
 
 The Blueprint should be treated as the strategic, overarching mandate that justifies the existence and direction of subsequent, specific technical specifications.
+Bleprints will be acompanied by Rulebooks and further guidelines.
 
 ## Background
 
